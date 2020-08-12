@@ -31,12 +31,12 @@ public class MainActivity extends AppCompatActivity {
         num1 = findViewById(R.id.numberInput1);
         num2 = findViewById(R.id.numberInput2);
 
-        //Creating the LayoutInflater instance
+        /*//Creating the LayoutInflater instance
         LayoutInflater li = getLayoutInflater();
         //Getting the view object as defined in the customtoast.xml file
         View layout = li.inflate(R.layout.customtoast,(ViewGroup)findViewById(R.id.custom_toast_layout));
 
-        /*//Creating the Toast object
+        //Creating the Toast object
         Toast toast = new Toast(getApplicationContext());
         toast.setDuration(Toast.LENGTH_SHORT);
         toast.setGravity(Gravity.CENTER_VERTICAL,0,0);
