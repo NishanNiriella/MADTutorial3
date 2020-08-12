@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="msg1">Number 1</string>
+    <string name="msg2">Number 2</string>
+    <string name="msg3">Answer appears here</string>
+
+</resources>
